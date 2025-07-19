@@ -1,16 +1,22 @@
-## Hi there 👋
+# Daniel Parra
 
-<!--
-**crossproject/crossproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm <Your Daniel Parra>, a student at Brigham Young University-Idaho interested in Web Development. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🌱 I'm currently learning Data Structures with C#.
+- 🏁 My goals are to introduce myself to the AI ecosystem by integrating new developments with recent AI models.
+- 🔭 I'm currently working on a human resource management system at Lunix SRL
+
+## Technologies and Tools
+
+- Proficient in: JavaScript, TypeScript, Node.js, Express.js, React, Next.js, PostgreSQL, MySQL, MongoDB, Docker.
+- Skills: Windows Server Administrator, Ubuntu Server, Proxmox.
+
+## Let's Connect!
+
+- Here is my [LinkedIn](https://www.linkedin.com/in/ldparra/) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
